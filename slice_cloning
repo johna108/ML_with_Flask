@@ -11,3 +11,6 @@ cloned_list_list = list(t)
 print(cloned_list_list)
 cloned_list_copy = t.copy()
 print(cloned_list_copy)
+
+reversed_t = t[::-1]
+print(reversed_t)
